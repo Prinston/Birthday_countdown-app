@@ -17,6 +17,10 @@ This birthday countdown app is a simple web application that calculates and disp
 - CSS
 - JavaScript
 
+## Demo
+
+[Link to Live Demo](https://prinston.github.io/Birthday_countdown-app/)
+
 ## How to Use
 
 1. Clone this repository.
